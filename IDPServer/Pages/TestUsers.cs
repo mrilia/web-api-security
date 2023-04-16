@@ -12,6 +12,7 @@ namespace IDPServer;
 
 public class TestUsers
 {
+    //TODO: Read users from DB
     public static List<TestUser> Users
     {
         get
