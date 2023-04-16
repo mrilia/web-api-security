@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IDPServer", "IDPServer\IDPServer.csproj", "{F09915F5-6B85-4EB4-AF82-399140C424A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWebApi", "SampleWebApi\SampleWebApi.csproj", "{053EB1CB-412D-4161-9EF7-DBE128899CD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F09915F5-6B85-4EB4-AF82-399140C424A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F09915F5-6B85-4EB4-AF82-399140C424A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F09915F5-6B85-4EB4-AF82-399140C424A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{053EB1CB-412D-4161-9EF7-DBE128899CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053EB1CB-412D-4161-9EF7-DBE128899CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053EB1CB-412D-4161-9EF7-DBE128899CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053EB1CB-412D-4161-9EF7-DBE128899CD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
