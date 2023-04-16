@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jVqOJ/95YUvO3a6ctfFmTU+ouNkdqKRtJTB+3gpwJxA=",
+  "Source": "IDPServer",
+  "BasePath": "_content/IDPServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
